@@ -1,0 +1,84 @@
+.background {
+  background-color: #150b3e;
+  height: 85vh;
+  width: 85vh;
+  border-radius: 25px;
+}
+
+.slogo {
+  background-color: #c7d2fe;
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  color: #7c3aed;
+  font-size: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  margin-left: 20px;
+}
+
+.para1 {
+  font-size: 25px;
+  color: #d4d2db;
+  font-family: 'Roboto';
+  padding: 25px;
+}
+
+.card1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.para2 {
+  color: #585076;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+
+.para3 {
+  color: #d4d2db;
+  font-size: 35px;
+  font-family: 'Roboto';
+}
+
+.para4 {
+  color: #585076;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.card2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.card3 {
+  display: flex;
+  flex-direction: column;
+}
+
+.para6 {
+  color: #585076;
+  font-size: 23px;
+  font-family: 'Roboto';
+  padding-left: 50px;
+}
+
+.para5 {
+  color: #d4d2db;
+  font-size: 27px;
+  font-family: 'Roboto';
+  padding-left: 50px;
+}
+
+.buttons-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
